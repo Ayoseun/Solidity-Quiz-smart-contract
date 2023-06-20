@@ -1,13 +1,12 @@
 # Solidity-Quiz-smart-contract
 
-QuizContract
-Table of Contents
-License
-Description
-Usage
-Functions
-addQuiz
-getQuizzesByDifficulty
+__Table of Contents__
+- License
+- Description
+- Usage
+- Functions
+   - addQuiz
+   - getQuizzesByDifficulty
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
